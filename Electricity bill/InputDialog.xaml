@@ -1,0 +1,26 @@
+  
+<Window x:Class="Electricity_bill.TenantInputDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="新增租戶" Height="200" Width="400"
+        WindowStartupLocation="Manual"
+        ResizeMode="NoResize">
+    <Grid>
+        <Grid Margin="10">
+            <TextBlock Text="租戶名稱：" VerticalAlignment="Top" Margin="10,10,0,0" />
+            <TextBox x:Name="NameTextBox" Margin="120,10,10,0" VerticalAlignment="Top" />
+
+            <TextBlock Text="起始度數：" VerticalAlignment="Top" Margin="10,50,0,0" />
+            <TextBox x:Name="StartReadingTextBox" Margin="120,50,10,0" VerticalAlignment="Top" />
+
+            <TextBlock Text="結束度數：" VerticalAlignment="Top" Margin="10,90,0,0" />
+            <TextBox x:Name="EndReadingTextBox" Margin="120,90,10,0" VerticalAlignment="Top" />
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,150,10,0">
+                <Button Content="確定" Width="60" Margin="0,-20,10,0" Click="ConfirmButton_Click" Height="24" />
+                <Button Content="取消" Width="60" Margin="0,-20,10,0" Click="CancelButton_Click" Height="24"/>
+            </StackPanel>
+        </Grid>
+
+    </Grid>
+</Window>

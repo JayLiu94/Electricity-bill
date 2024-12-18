@@ -1,0 +1,31 @@
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\bin\Debug\net8.0-windows\Electricity bill.exe
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\bin\Debug\net8.0-windows\Electricity bill.deps.json
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\bin\Debug\net8.0-windows\Electricity bill.runtimeconfig.json
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\bin\Debug\net8.0-windows\Electricity bill.dll
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\bin\Debug\net8.0-windows\Electricity bill.pdb
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\obj\Debug\net8.0-windows\InputDialog.baml
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\obj\Debug\net8.0-windows\InputDialog.g.cs
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\obj\Debug\net8.0-windows\Electricity bill_MarkupCompile.cache
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\obj\Debug\net8.0-windows\Electricity bill.g.resources
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\obj\Debug\net8.0-windows\Electricity bill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\obj\Debug\net8.0-windows\Electricity bill.AssemblyInfoInputs.cache
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\obj\Debug\net8.0-windows\Electricity bill.AssemblyInfo.cs
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\obj\Debug\net8.0-windows\Electricity bill.csproj.CoreCompileInputs.cache
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\obj\Debug\net8.0-windows\Electricity bill.dll
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\obj\Debug\net8.0-windows\refint\Electricity bill.dll
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\obj\Debug\net8.0-windows\Electricity bill.pdb
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\obj\Debug\net8.0-windows\Electricity bill.genruntimeconfig.cache
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\obj\Debug\net8.0-windows\ref\Electricity bill.dll
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\obj\Debug\net8.0-windows\Electricity bill.csproj.AssemblyReference.cache
+C:\Users\CCLIU2\source\repos\Electricity bill\Electricity bill\obj\Debug\net8.0-windows\Electric.866C4663.Up2Date
